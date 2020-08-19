@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 // import './index.css';
 // import App from './App';
 import Todo from './paegs/Todo';
+import 'antd/dist/antd.css';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
